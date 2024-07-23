@@ -7,6 +7,6 @@ public class Simple_Classes {
     double desiredSalary = 80000.45;
     boolean lookingForJob = true;
     System.out.println(name);
-    System.out.println(age);
+    System.out.println(age + gender + " " + desiredSalary + " " + lookingForJob);
 	}
 }
