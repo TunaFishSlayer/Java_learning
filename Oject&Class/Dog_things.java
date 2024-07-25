@@ -1,4 +1,4 @@
-  public class Oject_Class  { 
+  public class Dog_things  { 
     public static void main(String[] args) {
       System.out.println("Main method started");
       Dog fido = new Dog("Mark","poodle", false, 4);
